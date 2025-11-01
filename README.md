@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Riddhi Parmar
 🎓 I'm a BCA student from Rajkot, Gujarat  
-💻 Interested in Web Development, Game Development, and Data Science  
-🌱 Currently learning J2EE and Rust  
+💻 Interested in Web Development, Game Development
+🌱 Currently learning J2EE and Kotlin  
 ✨ Fun fact: I love Karate & Judo!
 
 ### 🛠️ Languages & Tools
