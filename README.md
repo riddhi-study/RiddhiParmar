@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Riddhi Parmar
-🎓 I'm a BCA student from Rajkot, Gujarat  
+🎓 I'm a BCA student from Rajkot, Gujarat, India  
 💻 Interested in Web Development, Game Development
 🌱 Currently learning J2EE and Kotlin  
 ✨ Fun fact: I love Karate & Judo!
